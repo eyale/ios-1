@@ -1,4 +1,4 @@
-*
-!.gitignore
-!README.md
-!SwiftRobotControlCenter.swift
+MyRobot
+MyRobot.xcodeproj
+MyRobotTests
+
